@@ -2,3 +2,41 @@ Bagian pada css :
 selector { property: value; }
 Contoh 
 h1 { color: blue; } Yang berarti ubah semua h1 menjadi biru
+
+inline
+1. Elemen HTML yang secara deafult tidak menambahkan baris baru ketika dibuat
+2. Lebar dan tinggi elemennya sebesar konten yang ada di dalamnya
+3. Kita tidak dapat mengatur tinggi dan lebar dari elemen inline4. Margin dan padding hanya mempengaruhi elemen secara horizontal tidak vertikal
+
+
+Elemen inline : b, strong, i, em, a, span, sub, sup, button, input, label, select, textarea
+
+
+inline-block
+1. Tidak ada elemen yang secara deafult memiliki properti ini
+2. Kita harus ubah secara manual properti tersebut
+3. Perilaku dasarnya sama dengan inline
+4. Perbedaannya, elemen inlin-block dapat kita atur tinggi dan lebarnya
+
+block
+1. Elemen HTML yang secara deafult menambahkan baris baru ketika dibuat
+2. Jika tidak diatur lebarnya, maka lebar deafult dari elemen block akan memenuhi lebar dari browser / parentnya
+3. Kita dapat mengatur tinggi dan lebar dari elemen block
+3. Di dalam elemen block, kita dapat menyimpan tag dengan elemen inline, inlin-block, atau bahkan elemen block lagi
+
+Elemen block : h1-h6, p, ol, ul, li, form, hr, div
+
+none
+Diguanakan untuk menghilangkan sebuah elemen
+
+Width & height satuannya terdiri dari : px, %, in, cm, mm, pt, pc
+
+
+Overflow untuk teks di dalam content : visible, auto, hidden, scroll
+
+
+margin-left dan margin-right auto akan membuat objek ditengah-tengah halamannya
+
+
+border style : doted, dash, double
+

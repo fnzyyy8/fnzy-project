@@ -1,0 +1,20 @@
+div {
+  margin: 30px;
+}
+.kotak1 {
+  background-color: antiquewhite;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+
+.kotak2 {
+  background-color: salmon;
+  width: 200px;
+  height: 200px;
+}
+.kotak3 {
+  background-color: aqua;
+  width: 200px;
+  height: 200px;
+}

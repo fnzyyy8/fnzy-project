@@ -1,0 +1,19 @@
+body {
+  background-color: gray;
+}
+
+.isiKonten {
+  margin-left: 90px;
+  margin-right: 90px;
+  padding: 15px;
+  background-color: wheat;
+}
+
+li {
+  text-decoration: none;
+  display: inline-block;
+}
+
+.navbar {
+  color: grey;
+}
