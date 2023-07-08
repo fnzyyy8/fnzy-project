@@ -1,0 +1,4 @@
+Bagian pada css :
+selector { property: value; }
+Contoh 
+h1 { color: blue; } Yang berarti ubah semua h1 menjadi biru

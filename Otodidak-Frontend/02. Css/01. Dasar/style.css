@@ -1,0 +1,42 @@
+body {
+  background-image: url("../image 3.png");
+}
+.form-login {
+  background-color: rgba(0, 0, 0, 0.54);
+  width: 600px;
+  height: 600px;
+  border-radius: 10px;
+  padding: 10px;
+  margin: autoS;
+}
+.form-login form {
+  margin-top: 100px;
+  padding: 10px;
+}
+.form-login label {
+  color: white;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.form-login h2 {
+  color: white;
+  text-align: center;
+}
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 72px;
+}
+
+/* Shorhand */
+/* ! body {font: font-style, font-variant, font-weight, font-size/line-height font-family; } */
+
+/* ! color: Warna, text-align: mengatur format paragraph, text-indent: Memberi indentasi pada paragraph  */
+
+/* ! text-decoration : mengatur dekorasi pada teks, text-transform : Mengubah jenis huruf menjadi besar,keci/Kapital */
+
+/* ? color : Nama Warna, Hexadecimal, dan RGB */
+
+.kelas {
+  color: blue;
+}
